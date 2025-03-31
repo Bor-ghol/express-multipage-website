@@ -370,7 +370,7 @@ main {
     margin-top: 3rem;
   }
   
-  .card {
+.card {
     background-color: var(--white);
     border-radius: var(--border-radius);
     overflow: hidden;
